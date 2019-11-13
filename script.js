@@ -1,0 +1,3 @@
+langbtn.onclick = function() {
+    
+}
